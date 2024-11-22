@@ -21,16 +21,13 @@ Controlling A Robotic Arm Using Hand Recognition Software
 - **DOI:** 10.53525/jster.1005934
 - **Full Article Access Link**: [Controlling A Robotic Arm Using Hand Recognition Software](https://dergipark.org.tr/en/pub/ijet/issue/45163/462339)
 
-![alternatif metin](https://github.com/acetinkaya/Heart-Disease-Prediction-with-ML-Algorithm-Using-Feature-Selection-by-Genetic-Algorithm/blob/main/GenetikAlgoritma2.png)
+![alternatif metin](https://github.com/acetinkaya/Controlling-A-Robotic-Arm-Using-Hand-Recognition-Software/blob/master/arm1.png)
 
 ## Abstract:
 
 With the increasing need of repetitive tasks in the manufacturing industry, robotic automation is becoming a necessity. In the steel industry, workers become less efficient over time, causing interruptions during assembly. Robotic automation is capable of operating at highest efficiency therefore increasing productivity in the steel industry. The robot will be able to pick up and drop metallic object with the help of the electromagnet present on the robotic arm. The handling of the objects will be triggered by the hand gestures from the user. The image to be processed will be captured by an external camera. This robot is built as a prototype for the steel industry. 
 
 ## Keywords: Gesture Recognition, OpenCV, Embedded System Robotic Arm Control, Embedded C.
-
-
-![alternatif metin](https://github.com/acetinkaya/Heart-Disease-Prediction-with-ML-Algorithm-Using-Feature-Selection-by-Genetic-Algorithm/blob/main/GenetikAlgoritma1.png)
 
 
 ## How to Cite
@@ -45,4 +42,4 @@ With the increasing need of repetitive tasks in the manufacturing industry, robo
 
 Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
-![alternatif metin](https://github.com/acetinkaya/Heart-Disease-Prediction-with-ML-Algorithm-Using-Feature-Selection-by-Genetic-Algorithm/blob/main/GenetikAlgoritma3.png)
+![alternatif metin](https://github.com/acetinkaya/Controlling-A-Robotic-Arm-Using-Hand-Recognition-Software/blob/master/arm2.png)
