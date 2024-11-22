@@ -4,23 +4,22 @@ Controlling A Robotic Arm Using Hand Recognition Software
 
 ## Authors
 
-Ali Çetinkaya  , Onur Öztürk  Ali Okatan 
-
-
-- **Berna Vatansever**  
-  Department of Computer Engineering, Faculty of Engineering and Architecture, Istanbul Gelisim University, Istanbul, Turkey
-
-- **Hakan Aydın**  
-  Department of Computer Engineering, Faculty of Engineering and Architecture, Istanbul Gelisim University, Istanbul, Turkey
+Ali Çetinkaya  ,    
 
 - [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)  
-  Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey  
+  Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey
+
+- **Onur Öztürk**  
+  School of Management, Faculty of Engineering, University College London (UCL), United Kingdom
+
+- **Ali Okatan**  
+  Department of Computer Engineering, Faculty of Engineering and Architecture, Istanbul Gelisim University, Istanbul, Turkey
 
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
 
 ## Article Information
-- **Received**: November 07, 2021  
-- **Accepted**: December 21, 2021
+- **Received**: September 07, 2021  
+- **Accepted**: April 21, 2021
 - **DOI:** 10.53525/jster.1005934
 - **Full Article Access Link**: [Genetik Algoritma Yaklaşımıyla Öznitelik Seçimi Kullanılarak Makine Öğrenmesi Algoritmaları ile Kalp Hastalığı Tahmini](https://dergipark.org.tr/en/pub/jster/issue/61588/1005934) || [Heart Disease Prediction with Machine Learning Algorithm Using Feature Selection by Genetic Algorithm](https://dergipark.org.tr/en/pub/jster/issue/61588/1005934)
 
