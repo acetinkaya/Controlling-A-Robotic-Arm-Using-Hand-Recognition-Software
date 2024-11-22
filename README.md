@@ -4,8 +4,6 @@ Controlling A Robotic Arm Using Hand Recognition Software
 
 ## Authors
 
-Ali Çetinkaya  ,    
-
 - [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)  
   Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey
 
