@@ -47,11 +47,11 @@ Günümüzde Yapay Zeka (YZ) uygulamalarından sağlık sektöründe pek çok ha
 
 ## How to Cite
 
-- **IEEE**: B. Vatansever, H. Aydın, and A. Çetinkaya, “Genetik Algoritma Yaklaşımıyla Öznitelik Seçimi Kullanılarak Makine Öğrenmesi Algoritmaları ile Kalp Hastalığı Tahmini”, JSTER, vol. 2, no. 2, pp. 67–80, 2021, doi: 10.53525/jster.1005934.	
+- **IEEE**: A. Çetinkaya, O. Öztürk, and A. Okatan, “Controlling A Robotic Arm Using Hand Recognition Software”, IJET, vol. 5, no. 2, pp. 59–63, 2019.	
 
-- **APA**: Vatansever, B., Aydın, H., & Çetinkaya, A. (2021). Genetik Algoritma Yaklaşımıyla Öznitelik Seçimi Kullanılarak Makine Öğrenmesi Algoritmaları ile Kalp Hastalığı Tahmini. Journal of Science, Technology and Engineering Research, 2(2), 67-80. https://doi.org/10.53525/jster.1005934	
+- **APA**: Çetinkaya, A., Öztürk, O., & Okatan, A. (2019). Controlling A Robotic Arm Using Hand Recognition Software. International Journal of Engineering Technologies IJET, 5(2), 59-63.	
 
-- **MLA**: Vatansever, Berna et al. “Genetik Algoritma Yaklaşımıyla Öznitelik Seçimi Kullanılarak Makine Öğrenmesi Algoritmaları Ile Kalp Hastalığı Tahmini”. Journal of Science, Technology and Engineering Research, vol. 2, no. 2, 2021, pp. 67-80, doi:10.53525/jster.1005934.	
+- **MLA**: Çetinkaya, Ali et al. “Controlling A Robotic Arm Using Hand Recognition Software”. International Journal of Engineering Technologies IJET, vol. 5, no. 2, 2019, pp. 59-63.	
 
 ## License
 
