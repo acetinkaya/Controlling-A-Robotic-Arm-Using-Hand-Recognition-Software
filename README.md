@@ -19,7 +19,7 @@ Controlling A Robotic Arm Using Hand Recognition Software
 - **Received**: September 21, 2018  
 - **Accepted**: April 27, 2029
 - **DOI:** 10.53525/jster.1005934
-- **Full Article Access Link**: [Genetik Algoritma Yaklaşımıyla Öznitelik Seçimi Kullanılarak Makine Öğrenmesi Algoritmaları ile Kalp Hastalığı Tahmini](https://dergipark.org.tr/en/pub/jster/issue/61588/1005934) || [Heart Disease Prediction with Machine Learning Algorithm Using Feature Selection by Genetic Algorithm](https://dergipark.org.tr/en/pub/jster/issue/61588/1005934)
+- **Full Article Access Link**: [Controlling A Robotic Arm Using Hand Recognition Software](https://dergipark.org.tr/en/pub/ijet/issue/45163/462339)
 
 ![alternatif metin](https://github.com/acetinkaya/Heart-Disease-Prediction-with-ML-Algorithm-Using-Feature-Selection-by-Genetic-Algorithm/blob/main/GenetikAlgoritma2.png)
 
